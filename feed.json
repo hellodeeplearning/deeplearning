@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Deep Learning",
+    "description": "",
+    "home_page_url": "https://hellodeeplearning.github.io/deeplearning",
+    "feed_url": "https://hellodeeplearning.github.io/deeplearning/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Theja Tulabandhula"
+    },
+    "items": [
+    ]
+}
